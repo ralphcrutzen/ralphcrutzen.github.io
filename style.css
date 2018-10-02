@@ -1,0 +1,43 @@
+body {
+	background-color: #DCC200;
+}
+
+h1 {
+	color: #F65600;
+}
+
+#divisie1 {
+	width: 20%;
+	background-color: #0C3EC5;
+	color: white;
+	border-style: dotted;
+	border-color: black;
+	margin: 25px;
+	padding: 50px;
+	text-align: center;
+	float: left;
+}
+
+#divisie2 {
+	width: 20%;
+	background-color: orange;
+	color: white;
+	border-style: dotted;
+	border-color: black;
+	margin: 25px;
+	padding: 50px;
+	text-align: center;
+	float: left;
+}
+
+#divisie3 {
+	width: 20%;
+	background-color: #0CEC7B;
+	color: white;
+	border-style: dotted;
+	border-color: black;
+	margin: 25px;
+	padding: 50px;
+	text-align: center;
+	float: left;
+}
